@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 13-04-2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,19 @@ for this purpose.
 
 
 ### Output:
+~~~
+NAME : D. Vishnu vardhan reddy
+REG NO : 212221230023
+~~~
+![image](https://github.com/Adithya-Siddam/WDM_EXP9/assets/93427248/8b8005d8-46ae-43fe-87b5-a3c7c98aaadb)
+
+![image](https://github.com/Adithya-Siddam/WDM_EXP9/assets/93427248/3335e89f-95a6-4361-93bd-5442db101a81)
+
+![image](https://github.com/Adithya-Siddam/WDM_EXP9/assets/93427248/f5e42ef8-cf93-4ab7-8373-b5c42500a8ab)
+
+![image](https://github.com/Adithya-Siddam/WDM_EXP9/assets/93427248/9f4db3ae-777f-408b-9e1a-0ca51703e4db)
+
 
 ### Result:
+Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
+
